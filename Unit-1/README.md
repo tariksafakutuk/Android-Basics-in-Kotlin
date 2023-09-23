@@ -15,6 +15,7 @@ This repo contains apps from the [Android Basics in Kotlin](https://developer.an
 - [Unit-2](https://github.com/tariksafakutuk/Android-Basics-in-Kotlin/tree/master/Unit-2)
 - [Unit-3](https://github.com/tariksafakutuk/Android-Basics-in-Kotlin/tree/master/Unit-3)
 - [Unit-4](https://github.com/tariksafakutuk/Android-Basics-in-Kotlin/tree/master/Unit-4)
+- [Unit-5](https://github.com/tariksafakutuk/Android-Basics-in-Kotlin/tree/master/Unit-5)
 
 
 ## Content
