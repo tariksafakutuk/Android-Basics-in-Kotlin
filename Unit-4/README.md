@@ -20,7 +20,7 @@ This repo contains apps from the [Android Basics in Kotlin](https://developer.an
 ## Content
 | Title | Name of Apps | Earned Badges |
 |:-----:|:------------:|:-------------:|
-| [Unit 4 - Connect to the internet](https://developer.android.com/courses/android-basics-kotlin/unit-4) | <ul><li>[Mars Photos App](https://github.com/tariksafakutuk/Android-Basics-in-Kotlin/tree/master/Unit-4/MarsPhotos)</li></ul> | <img src="https://developers.google.com/static/profile/badges/playlists/android/android-basics-kotlin-unit-4-pathway-1/badge.svg" width="100em" title="Coroutines"/> |
+| [Unit 4 - Connect to the internet](https://developer.android.com/courses/android-basics-kotlin/unit-4) | <ul><li>[Mars Photos App](https://github.com/tariksafakutuk/Android-Basics-in-Kotlin/tree/master/Unit-4/MarsPhotos)</li><li>[Amphibians App](https://github.com/tariksafakutuk/Android-Basics-in-Kotlin/tree/master/Unit-4/Amphibians)</li></ul> | <img src="https://developers.google.com/static/profile/badges/playlists/android/android-basics-kotlin-unit-4-pathway-1/badge.svg" width="100em" title="Coroutines"/> <img src="https://developers.google.com/static/profile/badges/playlists/android/android-basics-kotlin-unit-4-pathway-2/badge.svg" width="100em" title="Get and display data from the internet"/> |
 
 
 ## Author
