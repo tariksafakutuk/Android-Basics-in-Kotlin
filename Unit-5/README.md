@@ -21,7 +21,7 @@ This repo contains apps from the [Android Basics in Kotlin](https://developer.an
 ## Content
 | Title | Name of Apps | Earned Badges |
 |:-----:|:------------:|:-------------:|
-| [Unit 5 - Data persistence](https://developer.android.com/courses/android-basics-kotlin/unit-5) | <ul><li>[Bus Schedule App](https://github.com/tariksafakutuk/Android-Basics-in-Kotlin/tree/master/Unit-5/BusSchedule)</li></ul> | <img src="https://developers.google.com/static/profile/badges/playlists/android/android-basics-kotlin-unit-5-pathway-1/badge.svg" width="100em" title="Introduction to SQL, Room, and Flow"/> |
+| [Unit 5 - Data persistence](https://developer.android.com/courses/android-basics-kotlin/unit-5) | <ul><li>[Bus Schedule App](https://github.com/tariksafakutuk/Android-Basics-in-Kotlin/tree/master/Unit-5/BusSchedule)</li><li>[Inventory App](https://github.com/tariksafakutuk/Android-Basics-in-Kotlin/tree/master/Unit-5/Inventory)</li></ul> | <img src="https://developers.google.com/static/profile/badges/playlists/android/android-basics-kotlin-unit-5-pathway-1/badge.svg" width="100em" title="Introduction to SQL, Room, and Flow"/> |
 
 
 ## Author
