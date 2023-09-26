@@ -22,6 +22,7 @@ This repo contains apps from the [Android Basics in Kotlin](https://developer.an
 ## Content
 | Title | Name of Apps | Earned Badges |
 |:-----:|:------------:|:-------------:|
+| [Unit 6 - WorkManager](https://developer.android.com/courses/android-basics-kotlin/unit-6) | <ul><li>[Water Me App](https://github.com/tariksafakutuk/Android-Basics-in-Kotlin/tree/master/Unit-6/WaterMe)</li></ul> | <img src="https://developers.google.com/static/profile/badges/playlists/android/android-basics-kotlin-unit-6-pathway-1/badge.svg" width="100em" title="Schedule tasks with WorkManager"/> |
 
 
 ## Author
